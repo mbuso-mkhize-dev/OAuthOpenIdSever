@@ -1,0 +1,16 @@
+<h1>Hello, world!</h1>
+<p>Welcome to your home page</p>
+<div class="container-fluid well span6" *ngIf="user != null">
+  <div class="row-fluid">
+    <div class="span2">
+      <img src="https://secure.gravatar.com/avatar/de9b11d0f9c0569ba917393ed5e5b3ab?s=140&r=g&d=mm" class="img-circle">
+    </div>
+
+    <div class="span8">
+      <h3>{{user.email}}</h3>
+      <h6><label>Email</label>: MyEmail@servidor.com</h6>
+      <h6><label>Website</label>: www.google.com/page/me</h6>
+      <h6><label>Location</label>: South Africa</h6>
+    </div>
+  </div>
+</div>

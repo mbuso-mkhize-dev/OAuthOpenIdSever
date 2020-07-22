@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAuthOpenIdServer", "OAuthOpenIdServer\OAuthOpenIdServer.csproj", "{1299398B-6653-4E59-9545-F8840B2D0981}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAuthOpenIdServer.ApplicationLogic", "OAuthOpenIdServer.ApplicationLogic\OAuthOpenIdServer.ApplicationLogic.csproj", "{0636198C-B588-4B64-A047-7A496FF35DA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAuthOpenIdServer.EntityFramework", "OAuthOpenIdServer.EntityFramework\OAuthOpenIdServer.EntityFramework.csproj", "{01116382-2C4D-470D-BBAC-33D00090AF4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAuthOpenIdServer.EntityFramewrok.Core", "OAuthOpenIdServer.EntityFramewrok.Core\OAuthOpenIdServer.EntityFramewrok.Core.csproj", "{03F1172F-D8E4-4F71-B1F2-3D59588ACF20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthOpenIdServe.Angular", "OAuthOpenIdServe.Angular\OAuthOpenIdServe.Angular.csproj", "{605E6101-9F20-4C4A-9873-873EC8AF0AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1299398B-6653-4E59-9545-F8840B2D0981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1299398B-6653-4E59-9545-F8840B2D0981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1299398B-6653-4E59-9545-F8840B2D0981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1299398B-6653-4E59-9545-F8840B2D0981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0636198C-B588-4B64-A047-7A496FF35DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0636198C-B588-4B64-A047-7A496FF35DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0636198C-B588-4B64-A047-7A496FF35DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0636198C-B588-4B64-A047-7A496FF35DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01116382-2C4D-470D-BBAC-33D00090AF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01116382-2C4D-470D-BBAC-33D00090AF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01116382-2C4D-470D-BBAC-33D00090AF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01116382-2C4D-470D-BBAC-33D00090AF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F1172F-D8E4-4F71-B1F2-3D59588ACF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F1172F-D8E4-4F71-B1F2-3D59588ACF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F1172F-D8E4-4F71-B1F2-3D59588ACF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F1172F-D8E4-4F71-B1F2-3D59588ACF20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{605E6101-9F20-4C4A-9873-873EC8AF0AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605E6101-9F20-4C4A-9873-873EC8AF0AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605E6101-9F20-4C4A-9873-873EC8AF0AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605E6101-9F20-4C4A-9873-873EC8AF0AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9240EB95-0DB0-4F00-988C-EF16BC0BF132}
+	EndGlobalSection
+EndGlobal
